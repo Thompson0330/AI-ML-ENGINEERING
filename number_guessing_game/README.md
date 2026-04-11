@@ -25,3 +25,4 @@ This is a simple python game where the computer selects a random  number and the
 - Add difficulty level
 - Add attempts counter 
 - Add hints, if number is too high or too low
+- Add attempts limit
