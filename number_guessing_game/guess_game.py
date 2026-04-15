@@ -7,6 +7,6 @@ while True:
             print("correct")
             break #stops the loop
         else:
-            print ("wrong! try again")
+            print ("wrong! secret number is", secret_number)
     else:
         print("out of range")

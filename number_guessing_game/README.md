@@ -26,3 +26,6 @@ This is a simple python game where the computer selects a random  number and the
 - Add attempts counter 
 - Add hints, if number is too high or too low
 - Add attempts limit
+
+## Update
+- input range of 1-10
